@@ -1,0 +1,13 @@
+:root {
+  --main-color: #2e2f42;
+  --primary-brand: #4d5ae5;
+  --text: #434455;
+  --subtle-text: #8e8f99;
+  --accent: #e7e9fc;
+  --light: #f4f4fd;
+  --success: #31d0aa;
+}
+
+body {
+  font-family: "roboto";
+}
